@@ -1,6 +1,4 @@
-## RRBULL Public website intro
-
-<!-- ![](./public/boilerthing-banner-202405180221.png)
+![](./public/boilerthing-banner-202405180221.png)
 
 # Boilerthing
 
@@ -81,4 +79,4 @@ I'm open to any suggestions and improvements. Everyone is welcome to contribute 
 
 Licensed under the MIT License, Copyright © [Egor Kirpichev](https://github.com/eeegor) 2024
 
-See LICENSE for more information. -->
+See LICENSE for more information.
