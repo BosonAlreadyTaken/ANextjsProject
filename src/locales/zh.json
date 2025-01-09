@@ -1,0 +1,419 @@
+{
+  "Meta": {
+    "title": "RRBULL",
+    "description": "RRBULL."
+  },
+  "Routes": {
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "login": "Log in",
+    "signup": "Sign up",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "settings": "Settings",
+
+    "about": "About",
+    "products": "products",
+    "tools": "Tools",
+    "analysis": "Analysis",
+    "promote": "MT5",
+    "legal": "法律文件",
+    "supervision": "监管资质",
+    "contract": "合约细则",
+    "demoAccount": "模拟账户",
+    "announcement": "公告"
+  },
+  "Components": {
+    "withSidebar": {
+      "ContentFooter": {
+        "message": "Some content for the footer."
+      },
+      "SidebarMobile": {
+        "sheet_trigger_aria_label": "Open Sidebar",
+        "sheet_content_aria_label": "Mobile Navigation"
+      }
+    },
+    "BadgeAdmin": {
+      "label": "Admin"
+    },
+    "ButtonLogin": {
+      "title": "登 录"
+    },
+    "ButtonLogout": {
+      "title": "Log out"
+    },
+    "ButtonSignup": {
+      "title": "注 册"
+    },
+    "FormContact": {
+      "alertDestructive": {
+        "title": "Oops! Something went wrong!",
+        "description": "Please try again"
+      },
+      "alertSuccess": {
+        "title": "Yay! Thanks for reaching out!",
+        "description": "We'll get back to you as soon as possible."
+      },
+      "fieldEmail": {
+        "label": "Email",
+        "placeholder": "Enter your email here..."
+      },
+      "fieldMessage": {
+        "label": "Message",
+        "placeholder": "What's on your mind?"
+      },
+      "captcha": "This site is protected by reCAPTCHA and the Google <privacy>Privacy Policy</privacy> and <terms>Terms of Service</terms> apply.",
+      "buttonSubmit": {
+        "label": "Submit",
+        "label_send_another": "Send another message"
+      },
+      "messages": {
+        "email_min_1": "Please enter your email.",
+        "email_not_valid": "Please enter a valid email address.",
+        "message_min_1": "Please enter your message."
+      }
+    },
+    "YFLogin": {
+      "alertDestructive": {
+        "title": "Oops! Something went wrong!",
+        "description": "Please try again"
+      },
+      "alertSuccess": {
+        "title": "Yay! Thanks for reaching out!",
+        "description": "We'll get back to you as soon as possible."
+      },
+      "fieldEmail": {
+        "label": "Email",
+        "placeholder": "Enter your email here..."
+      },
+      "fieldMessage": {
+        "label": "Message",
+        "placeholder": "What's on your mind?"
+      },
+      "captcha": "This site is protected by reCAPTCHA and the Google <privacy>Privacy Policy</privacy> and <terms>Terms of Service</terms> apply.",
+      "buttonSubmit": {
+        "label": "Submit",
+        "label_send_another": "Send another message"
+      },
+      "messages": {
+        "email_min_1": "Please enter your email.",
+        "email_not_valid": "Please enter a valid email address.",
+        "message_min_1": "Please enter your message."
+      }
+    },
+    "FormLogin": {
+      "title": "Sign in",
+      "button_google": "Sign in with Google",
+      "button_github": "Sign in with GitHub"
+    },
+    "IconLoadingSpinner": {
+      "label": "Loading..."
+    },
+    "LandingAction": {
+      "title": "Are you loving it?",
+      "button": "Give some love on GitHub."
+    },
+    "LandingFeatures": {
+      "title": "You name it, we've got it.",
+      "subtitle": "Features"
+    },
+    "LandingHero": {
+      "title": "The <underline>real</underline> RRBULL.",
+      "typewriter1": "Do your thing.",
+      "typewriter2": "Deploy your thing.",
+      "typewriter3": "Scale your thing.",
+      "subtitle": "Make better things with RRBULL.",
+      "link_dashboard": "Get started",
+      "link_login": "Start making an impact"
+    },
+    "LandingQuotes": {
+      "title": "Testimonials",
+      "subtitle": "People love using the thing.",
+      "quote1": {
+        "quote": "The thing is the best thing I've ever used. Trust me bro.",
+        "name": "Jules Winnfield",
+        "position": "CEO, Banana Biz."
+      },
+      "quote2": {
+        "quote": "The thing unparalleled things that have advanced our business.",
+        "name": "Mia Wallace",
+        "position": "Product Manager, Cherry Inc."
+      },
+      "quote3": {
+        "quote": "I'm telling you - other things cannot compete with this thing.",
+        "name": "Vincent Vega",
+        "position": "Public Relations, Citrus Co."
+      }
+    },
+    "LandingReferences": {
+      "title": "References",
+      "subtitle": "Top companies trust the thing.",
+      "reference1": {
+        "label": "Cherry Inc."
+      },
+      "reference2": {
+        "label": "Banana Biz."
+      },
+      "reference3": {
+        "label": "Braeburn Ltd."
+      },
+      "reference4": {
+        "label": "Citrus Co."
+      }
+    },
+    "LandingStatistics": {
+      "title": "Stats",
+      "subtitle": "The numbers are looking good.",
+      "stat1": {
+        "label": "Users"
+      },
+      "stat2": {
+        "label": "Subscribers"
+      },
+      "stat3": {
+        "label": "Downloads"
+      },
+      "stat4": {
+        "label": "Products"
+      }
+    },
+    "LandingThings": {
+      "title1": "Join the gang.",
+      "subtitle1": "Get started with Boilerthing today.",
+      "link1": "Get started",
+      "title2": "Wanna talk?",
+      "subtitle2": "We're here to help.",
+      "link2": "Contact us"
+    },
+    "LocaleSwitcher": {
+      "label": "选择语言",
+      "locale": "{locale, select, de {Deutsch} en {英语} zh {简体中文} hk {繁体中文} other {Unknown}}"
+    },
+    "PricingCard": {
+      "price": "{amount}€",
+      "savings": "Save {amount}€/month",
+      "button": "Try for free"
+    },
+    "PricingSelector": {
+      "pay_monthly": "Pay monthly",
+      "pay_annualy": "Pay annually <badge>-20%</badge>",
+      "price_info": "* Prices are in EUR and do not include VAT",
+      "pricingCard1": {
+        "name": "Free Thing",
+        "subtitle": "For individuals",
+        "feature_1": "Unlimited things",
+        "feature_2": "Basic support",
+        "feature_3": "Community access",
+        "feature_4": "Standard security"
+      },
+      "pricingCard2": {
+        "name": "Pro Thing",
+        "subtitle": "Advanced features",
+        "feature_1": "Custom things",
+        "feature_2": "Priority support",
+        "feature_3": "Advanced analytics",
+        "feature_4": "Enhanced security"
+      },
+      "pricingCard3": {
+        "name": "Team Thing",
+        "subtitle": "For teams",
+        "feature_1": "Collaboration things",
+        "feature_2": "Custom roles",
+        "feature_3": "Dedicated support",
+        "feature_4": "Custom integrations"
+      }
+    },
+    "PricingFAQ": {
+      "item1": {
+        "question": "How do I upgrade the thing?",
+        "answer": "You can upgrade your thing at any time by visiting the billing page."
+      },
+      "item2": {
+        "question": "Are there any hidden things?",
+        "answer": "No, there are no hidden things. What you see is what you get."
+      },
+      "item3": {
+        "question": "Can I share my thing with others?",
+        "answer": "Yes, you can share your thing with team members and collaborators."
+      },
+      "item4": {
+        "question": "Can I customize my thing?",
+        "answer": "Yes, our thing allows for extensive customization to fit your needs."
+      },
+      "item5": {
+        "question": "What if I need help with my thing?",
+        "answer": "Our support team is available 24/7 to help you with any thing-related issues."
+      }
+    },
+    "ProfileCard": {
+      "joined_on": "Joined on {date}",
+      "button_delete_account": "Delete my account"
+    },
+    "ScrollToTop": {
+      "aria_label": "Scroll to top"
+    },
+    "SidebarMobile": {
+      "trigger_aria_label": "Open Sidebar",
+      "content_aria_label": "Mobile Navigation"
+    }
+  },
+  "Pages": {
+    "Profile": {
+      "title": "Profile"
+    },
+    "Settings": {
+      "title": "Settings"
+    },
+    "Contact": {
+      "title": "Contact",
+      "subtitle": "Don't be a stranger, get in touch!"
+    },
+    "Pricing": {
+      "title": "Pricing",
+      "subtitle": "The below numbers are just examples, Boilerthing is free."
+    },
+    "Page404": {
+      "title": "404",
+      "description": "Sorry, the page you were looking doesn't exist.",
+      "link": "Back to homepage"
+    },
+    "Legal": {
+      "title": "法律文件",
+      "subtitle": "我们高度重视每位用户的法律权益和责任。在使用我们的服务之前，您应详细阅读并理解相关的政策和条款。特别是由于身处不同的国家或地区，可能存在的法律差异等。",
+      "item2Title": "条款与政策",
+      "item2btn1": "个人资料收集声明",
+      "item2btn2": "客户协议",
+      "item2btn3": "电子签署协议",
+      "item2btn4": "订单执行规则",
+      "item2btn5": "订单执行风险",
+      "item2btn6": "风险声明",
+      "item3des1": "RRBULL是由Royal Regal Bullion Limited运营的品牌和商标名称，注册于香港并持有金银业贸易场牌照编号096及香港海关贵金属交易商A类注册编号A-B-24-06-07409。",
+      "item3des2": "风险警告：RRBULL的产品或服务涉及在交易所场外交易的复杂衍生产品，具有杠杆特性，这些产品可能会导致迅速资金损失风险，未必适合所有投资者。",
+      "item3des3": "责任说明：本网站所载的资料不构成投资建议，也不包含任何投资活动的要约或邀请，访问和使用本站内容属于个人的自愿行为。在任何情况下，RRBULL均不对任何个人或实体就其投资行为造成的、导致的或与之相关的全部或部分损失或损害承担任何责任。",
+      "item3des4": "地区限制：RRBULL不向某些司法管辖区的居民提供服务，包括：美国、英国、伊朗、索马里、伊拉克、朝鲜和其他辖区。",
+      "item3des5": "个人资料收集声明：\"Cookies\" 的应用 - 阁下到访本网站时，网站会作记录，以分析网站的访客人数和一般使用状况。其中部分匿名 数据将透过 \"Cookies\" 方式收集。\"Cookies\" 是载有小量数据的档案，自动储存于访客本身计算机所安装的互联网浏览器，可供本网站日后检索。如阁下想禁用 \"Cookies\"，可更改浏览器的设定，但更改后便不能进入本公司网站的某些部分。每当本公司要求阁下提供个人资料，本公司均会说明收集此等资料的用途，并确保只会将资料用于收集时说明的用途。"
+    },
+    "Promote": {
+      "title": "推广",
+      "subtitle": "Promote your thing with RRBULL.",
+      "it1Title": "业界最强",
+      "it1des1": "全球受欢迎的交易软件，多平台整合，支持桌面端、移动端、网页端交易。",
+      "it2Title": "方便快捷",
+      "it2des1": "极速成交，超过80多种技术指标，强大且稳定。",
+      "it3Title": "丰富图表",
+      "it3des1": "海量的分析工具库，还支持自定义创建，建立属于你的分析框架。",
+      "it4Title": "算法交易",
+      "it4des1": "支持EA自动化交易，减少人为干预，交易无间断。",
+      "it5Title": "稳如磐石",
+      "it5des1": "联系全球80+交易所和流动性提供商，报价稳定无忧。",
+      "it6Title": "马上开始交易！",
+      "it6btn1": "下载 MetaTrader 5",
+      "qr1": "扫描并获取 Android APK 文件",
+      "qr2": "扫描并从 App Store 安装",
+      "qr3": "扫描并从 Google Play 安装"
+    },
+    "Supervision": {
+      "title": "Supervision",
+      "it0Title": "监管资质",
+      "it0des1_0": "RRBULL是Royal Regal Bullion Ltd的運營品牌名稱，持有香港金銀業貿易場牌照096號及香港海關貴金屬交易商A類註冊",
+      "it0des1_1": "A-B-24-06-07409",
+      "it0des1_2": "。紥根香港，面向世界。",
+      "it1Title": "想您所想",
+      "it1des1": "我们深耕贵金属领域，致力于为市场参与者提供全面的信息和专业服务。我们的团队充满活力，由经验丰富的产业链从业者和专业交易员组成，实践以客为先的理念，真正地设身处地了解您的需求，务求提供切合您所需的服务。",
+      "it2Title": "共同成长",
+      "it2des1": "我们陪伴您从入门到精通，跨越每一座山峰，见证您的成长与进步。无论市场如何变幻，我们始终坚守理念，稳中求进，进而求胜。",
+      "it3Title": "亲密无间",
+      "it3des1": "我们重视与每一位用户的关系，通过建立紧密的沟通渠道，让您随时提出宝贵的建议，协力我们的改进。",
+      "it4Title": "稳健前行",
+      "it4des1": "我们非常重视网络及系统安全，时刻严密监管，确保交易平台高效而稳定。客户资金与公司资金分开处理，每年由外部独立会计师审核，以确保财务稳健。"
+    },
+    "Contract": {
+      "title": "合约细则",
+      "it1Title": "交易黃金",
+      "it1des1": "全球黃金每天逾千億美元交易量，與美國國債市場相當，其高流動性在市場承壓時尤為顯著，這也是黃金吸引投資者的重要特質之一。",
+      "it2Title": "低保證金",
+      "it2des1": "提供靈活杠杆，自由掌控您的資金成本，資本利用率最大化。",
+      "it3Title": "極速執行",
+      "it3des1": "毫秒級的執行速度，無重複報價，讓交易變得高效。",
+      "it4Title": "具競爭力",
+      "it4des1": "低點差和無倉息模式，降低您的交易成本，提升盈利潛力。",
+      "it5Title": "策略自由",
+      "it5des1": "無人為干預，專注協助您的交易，確保交易環境公平和透明。",
+      "th1": "合约",
+      "th2": "黄金 XAUUSD",
+      "th3": "白银 XAGUSD",
+      "td1_1": "标准",
+      "td1_2": "100盎司",
+      "td1_3": "5000盎司",
+      "td2_1": "单笔最大最小",
+      "td2_2": "20/0.01 手",
+      "td3_1": "最低保证金",
+      "td3_2": "按账户类别而定",
+      "td4_1": "维持保证金",
+      "td4_2": "交易日：30%，周末：100%",
+      "td5_1": "锁仓保证金",
+      "td5_2": "100%",
+      "td6_1": "隔夜利息",
+      "td6_2": "已交易平台为准",
+      "td7_1": "交易时间",
+      "td7_2_1": "北京时间",
+      "td7_2_2": "周一 06:05 至 周六 04:55（夏令时） ",
+      "td7_2_3": "周一 07:05 至 周六 05:55（冬令时）",
+      "td7_2_4": "法定节假日、国际休市时间除外",
+      "td8_1" : "结算时间",
+      "td8_2_1": "北京时间",
+      "td8_2_2": "交易日 05:00-06:00（夏令时）",
+      "td8_2_3": "交易日 06:00-07:00（冬令时）",
+      "tableDesc": "由于市场瞬息万变，此表仅供参考，一切产品细则以交易软件内参数为准。"
+    },
+    "DemoAccount": {
+      "title": "模拟账户",
+      "subtitle": "Promote your thing with RRBULL.",
+      "it1Title": "为什么要模拟交易？",
+      "it1des1": "模拟交易通常是进入金融市场的第一步。它为新手提供了一个无风险的环境来体验交易，熟悉市场动态，并建立信心。",
+      "it2Title": "免费学习",
+      "it2des1": "模拟账户没有任何费用，您可以在不承担任何财务风险的情况下体验交易，获得宝贵的经验。",
+      "it3Title": "掌握操作",
+      "it3des1": "通过模拟交易，您可以熟练掌握交易平台的各种功能和工具。这包括如何下单、设置止损和止盈、使用技术分析工具等。熟练的操作技能将为您在真实交易中节省时间，并提高交易效率，提高胜算。",
+      "it4Title": "建立策略",
+      "it4des1": "模拟账户也是测试和优化交易策略的理想场所。您可以在不同的市场条件下，尝试各种策略，观察其表现，并进行调整。这不仅有助于您找到最适合自己的交易方法，还能提高您的交易水平。",
+      "it5Title": "与真实环境的区别",
+      "it5des1": "我们的模拟交易环境将尽可能地贴近真实交易环境，但仍有一些关键区别。例如：模拟账户使用的是虚拟资金，您不会因此赚取真实盈利。其次，市场情绪和心理压力在模拟交易中未必能够完全体现，这可能会影响您的交易决策。"
+    },
+    "Announcement" : {
+      "title": "公告",
+      "it0Title": "监管资质",
+      "it0des1": "RRBULL是Royal Regal Bullion Ltd的运营品牌名称，持有香港金银业贸易场牌照096号及香港海关贵金属交易商A类注册A-B-24-06-07409。扎根香港，面向世界。",
+      "it1Title": "想您所想",
+      "it1des1": "我们深耕贵金属领域，致力于为市场参与者提供全面的信息和专业服务。我们的团队充满活力，由经验丰富的产业链从业者和专业交易员组成，实践以客为先的理念，真正地设身处地了解您的需求，务求提供切合您所需的服务。",
+      "it2Title": "共同成长",
+      "it2des1": "我们陪伴您从入门到精通，跨越每一座山峰，见证您的成长与进步。无论市场如何变幻，我们始终坚守理念，稳中求进，进而求胜。",
+      "it3Title": "亲密无间",
+      "it3des1": "我们重视与每一位用户的关系，通过建立紧密的沟通渠道，让您随时提出宝贵的建议，协力我们的改进。",
+      "it4Title": "稳健前行",
+      "it4des1": "我们非常重视网络及系统安全，时刻严密监管，确保交易平台高效而稳定。客户资金与公司资金分开处理，每年由外部独立会计师审核，以确保财务稳健。"
+    },
+    "login": {
+      "title": "RRBULL 欢迎您",
+      "loginForm_user": "邮箱/手机号",
+      "loginForm_password": "密码",
+      "loginForm_remember": "记住我",
+      "loginForm_button": "登录",
+      "loginForm_forgot": "忘记密码？",
+      "or": "或",
+      "loginForm_signup": "注册",
+      "registerForm_region": "国家/地区",
+      "registerForm_email": "邮箱",
+      "registerForm_phone": "手机号",
+      "registerForm_verificationCode": "验证码",
+      "registerForm_receiveCode": "接收验证码",
+      "registerForm_password": "设置密码",
+      "registerForm_inviteCode": "邀请码",
+      "registerForm_button": "注册",
+      "registerForm_desc_1": "勾选同意表示您已经完全阅读并理解，接受公司列出的",
+      "registerForm_desc_2": "法律文件",
+      "registerForm_desc_3": "中的全部条款。",
+      "err_msg_pwd": "8-16個字符,需包含至少一個大寫和小寫字母、數字、特殊字符"
+    }
+  }
+}

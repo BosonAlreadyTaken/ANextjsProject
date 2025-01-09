@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a {
+  @apply text-rose-500 transition-all hover:text-rose-600;
+}
+
+body {
+  color: #1b222f; /* 将全局字体颜色设置为深灰色，你可以替换为任何你想要的颜色值 */
+}
